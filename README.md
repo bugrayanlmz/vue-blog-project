@@ -1,6 +1,6 @@
-# vue-book-project
+# vue-blog-project
 
-This template should help get you started developing with Vue 3 in Vite.
+A simple site I created to understand the component structure in vue.js
 
 ## Recommended IDE Setup
 
